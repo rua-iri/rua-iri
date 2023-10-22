@@ -2,7 +2,9 @@
 
 
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri" alt="rua-iri" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri" alt="rua-iri" />
+</p>
 
 <!--
 **rua-iri/rua-iri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
