@@ -1,7 +1,6 @@
 <h1 align="center">rua-iri</h1>
 
 
-<hr>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri" alt="rua-iri" />
 </p>
