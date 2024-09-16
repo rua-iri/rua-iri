@@ -1,9 +1,8 @@
-<h1 align="center">rua-iri</h1>
-
 
 <h1 align="center">
-    <a href="https://rua-iri.com">rua-iri.com</a>
+    <a href="https://rua-iri.com">rua-iri</a>
 </h1>
+
 
 
 <p align="center">
