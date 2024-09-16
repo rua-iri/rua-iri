@@ -21,6 +21,7 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg" alt="express logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/jest/jest-plain.svg" alt="express logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" height="40" width="36" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring logo" height="40" width="36" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/junit/junit-original-wordmark.svg" alt="junit logo" height="40" width="36" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi slogo" height="40" />
