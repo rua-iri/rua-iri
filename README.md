@@ -24,11 +24,12 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring logo" height="40" width="36" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/junit/junit-original-wordmark.svg" alt="junit logo" height="40" width="36" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi slogo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb logo" height="40" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker logo" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux logo" height="40" />
@@ -42,14 +43,15 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="nextjs logo" height="40" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/angular/angular-original.svg" alt="angular logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" alt="electron logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg" alt="vite logo" height="40" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/axios/axios-plain-wordmark.svg" alt="axios logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/hugo/hugo-original.svg" alt="hugo logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/bulma/bulma-plain.svg" alt="bulma logo" height="40" />
 
-    
 </div>
 
 
@@ -61,7 +63,6 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/firefox/firefox-original.svg" alt="vim logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="Debian logo" height="40" />
     
-
 </div>
 
 
