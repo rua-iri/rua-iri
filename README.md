@@ -1,6 +1,6 @@
 
-<h1 align="center">
-    <a href="https://rua-iri.com">
+<h1>
+    <a href="https://rua-iri.com" style="display: flex; justify-content: space-between; align-items: center;" >
         <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" />
         rua-iri
         <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" />
