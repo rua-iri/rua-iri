@@ -1,11 +1,10 @@
 
 <h1 align="center">
     <a href="https://rua-iri.com">
-    <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" /></a>
-    &nbsp;
-    rua-iri
-    &nbsp;
-    <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" /></a>
+        <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" />
+        rua-iri
+        <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" />
+    </a>
 </h1>
 
 
