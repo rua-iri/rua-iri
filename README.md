@@ -1,6 +1,11 @@
 
 <h1 align="center">
-    <a href="https://rua-iri.com">rua-iri</a>
+    <a href="https://rua-iri.com">
+    <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" /></a>
+    &nbsp;
+    rua-iri
+    &nbsp;
+    <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" /></a>
 </h1>
 
 
@@ -20,10 +25,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg" alt="express logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/jest/jest-plain.svg" alt="express logo" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" height="40" width="36" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring logo" height="40" width="36" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/junit/junit-original-wordmark.svg" alt="junit logo" height="40" width="36" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres logo" height="40" />
