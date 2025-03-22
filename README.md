@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <a href="https://rua-iri.com">
         <img width="10%" src="https://rua-iri.com/android-chrome-192x192.png" align="left" />
@@ -7,13 +6,9 @@
     </a>
 </h1>
 
-
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri" alt="rua-iri" />
 </p>
-
-
 
 ## Backend
 
@@ -21,6 +16,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi logo" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="java logo" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg" alt="java logo" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg" alt="express logo" height="40" />
     <img src="https://github.com/devicons/devicon/raw/master/icons/jest/jest-plain.svg" alt="express logo" height="40" />
@@ -36,8 +33,7 @@
 
 </div>
 
-
-## Frontend 
+## Frontend
 
 <div>
     <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="40" />
@@ -54,7 +50,6 @@
 
 </div>
 
-
 ## My Setup
 
 <div>
@@ -64,9 +59,3 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="Debian logo" height="40" />
     
 </div>
-
-
-
-
-
-
