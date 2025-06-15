@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri" alt="rua-iri" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri&locale=ar" alt="rua-iri" />
 </p>
 
 ## Backend
