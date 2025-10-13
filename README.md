@@ -10,7 +10,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rua-iri&locale=ar" alt="rua-iri" />
 </p>
 
-## Backend
+## Backend  
 
 <div>
     <img src="https://raw.githubusercontent.com/rua-iri/rua-iri/refs/heads/main/images/webp/python-original.webp" alt="python logo" height="40" />
@@ -50,12 +50,3 @@
 
 </div>
 
-## My Setup
-
-<div>
-    <img src="https://raw.githubusercontent.com/rua-iri/rua-iri/refs/heads/main/images/webp/vscode-original.webp" alt="vscode logo" height="40" />
-    <img src="https://raw.githubusercontent.com/rua-iri/rua-iri/refs/heads/main/images/webp/vim-original.webp" alt="vim logo" height="40" />
-    <img src="https://raw.githubusercontent.com/rua-iri/rua-iri/refs/heads/main/images/webp/firefox-original.webp" alt="vim logo" height="40" />
-    <img src="https://raw.githubusercontent.com/rua-iri/rua-iri/refs/heads/main/images/webp/debian-original.webp" alt="Debian logo" height="40" />
-    
-</div>
