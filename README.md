@@ -46,3 +46,8 @@
 
 </div>
 
+<br/>
+<br/>
+<div align="center">
+    <img width="50%" src="https://rua-iri.com/android-chrome-192x192.png" />
+</div>
