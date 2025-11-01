@@ -45,9 +45,3 @@
     <img src="https://raw.githubusercontent.com/rua-iri/rua-iri/refs/heads/main/images/webp/bootstrap-original.webp" alt="bootstrap logo" height="40" />
 
 </div>
-
-<br/>
-<br/>
-<div align="center">
-    <img width="25%" src="https://rua-iri.com/android-chrome-192x192.png" />
-</div>
